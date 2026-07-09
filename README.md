@@ -1,4 +1,4 @@
-# Movie-Revenue-Predictor-Dashboard-
+# Movie-Revenue-Predictor-Dashboard
 
 An end-to-end Machine Learning project that predicts the expected revenue of a movie using historical movie metadata. The project covers the complete machine learning pipeline, including data preprocessing, exploratory data analysis (EDA), feature engineering, model training, evaluation, hyperparameter tuning, and deployment using Streamlit.
 
