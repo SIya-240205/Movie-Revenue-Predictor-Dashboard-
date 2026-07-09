@@ -133,6 +133,16 @@ Movie-Revenue-Predictor/
 ├── requirements.txt
 └── screenshots/
 ```
+## How to Run
+1. Open the notebook and run all cells.
+2. Run:
+streamlit run app.py
+
+## Key Findings
+- Budget is the strongest predictor of movie revenue.
+- Adventure and Animation movies generate the highest average revenue.
+- Random Forest outperformed Linear Regression with an R² score of 0.5444.
+- A Streamlit dashboard was developed for interactive revenue prediction.
 
 ## 🔮 Future Improvements
 
